@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./readme-images/project-logo.png" />
+<img src="./readme-images/logon.PNG" />
 
   <h2 align="center">StuRent  - Travel & Rental website</h2>
 

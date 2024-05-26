@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![StuRent Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![StuRent Desktop Demo](./readme-images/demo.png "Desktop Demo")
 
 ### Prerequisites
 

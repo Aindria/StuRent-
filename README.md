@@ -4,7 +4,7 @@
 
   <h2 align="center">StuRent  -  Rental website</h2>
 
-  StuRent is fully  <br />responsive for all devices, built using HTML, CSS, JavaScript, PHP and MySQL.
+  StuRent is fully responsive <br /> website for all devices, built using HTML, CSS, JavaScript, PHP and MySQL.
 
 </div>
 
